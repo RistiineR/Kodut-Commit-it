@@ -1,2 +1,2 @@
 # Esimene kodutöö
-# Esimene päev
+Esimene päev
