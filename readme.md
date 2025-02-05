@@ -4,3 +4,4 @@ Teine päev
 Kolmas päev
 Neljas päev
 Viies päev
+Kuues päev
