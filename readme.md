@@ -5,3 +5,4 @@ Kolmas päev
 Neljas päev
 Viies päev
 Kuues päev
+Seitsmes päev
