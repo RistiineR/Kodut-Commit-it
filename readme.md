@@ -6,3 +6,5 @@ Neljas päev
 Viies päev
 Kuues päev
 Seitsmes päev
+Kaheksas päev
+Üheksas päev
