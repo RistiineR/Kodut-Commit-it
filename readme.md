@@ -8,3 +8,4 @@ Kuues päev
 Seitsmes päev
 Kaheksas päev
 Üheksas päev
+Kümnes päev
