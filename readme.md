@@ -10,3 +10,4 @@ Kaheksas päev
 Üheksas päev
 Kümnes päev
 Üheteistkümnes päev
+Kaheteistkümnes päev
