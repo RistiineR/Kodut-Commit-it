@@ -13,3 +13,4 @@ Kümnes päev
 Kaheteistkümnes päev
 Kolmetestkümnes päev
 Neljateistkümnes päev
+Viieteistkümnes päev
