@@ -15,3 +15,4 @@ Kolmetestkümnes päev
 Neljateistkümnes päev
 Viieteistkümnes päev
 Kuueteistkümnes äev
+Seitsmeteistkümnes päev
