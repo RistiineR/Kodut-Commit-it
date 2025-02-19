@@ -18,3 +18,4 @@ Kuueteistkümnes äev
 Seitsmeteistkümnes päev
 KAheksateistkümnes päev
 Üheksateistkümnes päev
+Kahekümnes päev
