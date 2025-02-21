@@ -19,3 +19,5 @@ Seitsmeteistkümnes päev
 KAheksateistkümnes päev
 Üheksateistkümnes päev
 Kahekümnes päev
+Kahekümne esimene päev jäi vahele
+kahekümne teine päev
