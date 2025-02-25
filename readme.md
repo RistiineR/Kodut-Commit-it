@@ -23,3 +23,4 @@ Kahekümne esimene päev jäi vahele
 kahekümne teine päev
 kahekümne kolmas päev
 Kahekümne neljas päev
+Kahekümne viies päev
