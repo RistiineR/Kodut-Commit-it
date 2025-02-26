@@ -24,3 +24,4 @@ kahekümne teine päev
 kahekümne kolmas päev
 Kahekümne neljas päev
 Kahekümne viies päev
+Kahekümne kuues päev
