@@ -26,3 +26,4 @@ Kahekümne neljas päev
 Kahekümne viies päev
 Kahekümne kuues päev
 kahekümne seitsmes päev
+kahekümne kaheksas päev
