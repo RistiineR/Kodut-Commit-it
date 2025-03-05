@@ -29,3 +29,4 @@ kahekümne seitsmes päev
 kahekümne kaheksas päev
 kahekümne üheksas päev
 Kolmekümnes päev
+Kolmekümne esimene päev
